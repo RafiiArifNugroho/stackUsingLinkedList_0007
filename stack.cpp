@@ -61,3 +61,7 @@ public:
                     current = current->next;
                 }
             }
+            cout << endl;
+        }
+    }
+};
