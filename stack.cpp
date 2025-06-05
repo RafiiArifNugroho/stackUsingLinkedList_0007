@@ -54,3 +54,6 @@ public:
             }
             else
             {
+                Node *Current = top;
+                while (current != NULL)
+                {
